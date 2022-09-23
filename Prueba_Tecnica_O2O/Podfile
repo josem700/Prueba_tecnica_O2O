@@ -1,0 +1,3 @@
+target 'Prueba_Tecnica_O2O' do
+pod 'Alamofire'
+end

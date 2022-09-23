@@ -1,0 +1,6 @@
+module Pods_Prueba_Tecnica_O2O {
+  umbrella header "Pods-Prueba_Tecnica_O2O-umbrella.h"
+
+  export *
+  module * { export * }
+}
